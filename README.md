@@ -1,7 +1,9 @@
 # Lolol
 ## Usage
 `gem install lolol`
+
 `lolol`
+
 ```BASH
 #=> some random joke
 ```
